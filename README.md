@@ -1,1 +1,1 @@
-# Scientific-Abstract-classification
+# Scientific-Abstract-classification using BERT base-uncased
